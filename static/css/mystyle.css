@@ -1,0 +1,46 @@
+body{
+	background: #edf0fc;
+}
+a{
+	color: inherit;
+} 
+
+
+.blueNav{
+	background: #2196f3;
+}
+
+.orangeNav{
+	background: #ff6d00;
+}
+
+.tealNav{
+	background: #004d40;
+}
+
+.blackNav{
+	background: #263238;
+}
+
+.redNav{
+	background: #b71c1c;
+}
+
+.pinkNav{
+	background: #880e4f;
+}
+
+.myCard{
+	border-radius:4px;
+	border: 1px solid #efefef;
+	border-bottom: 1px solid #e2e2e2;
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-top: 16px;
+	padding-bottom: 16px;
+	margin-bottom: 8px;
+	line-height: 1.6;
+	color: white;
+	background: #37474f;
+}
+
